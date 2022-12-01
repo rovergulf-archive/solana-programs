@@ -15,4 +15,4 @@ anchor-lang = "0.25.0"
 postgres = "0.19.3"
 
 [dev-dependencies]
-env_logger = "0.9.0"
+env_logger = "0.10.0"
