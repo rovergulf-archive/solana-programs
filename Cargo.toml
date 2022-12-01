@@ -9,7 +9,7 @@ edition = "2021"
 [dependencies]
 log = "0.4.17"
 opentelemetry = "0.17.0"
-clap = { version = "3.2.6", features = ["derive"] }
+clap = { version = "4.0.29", features = ["derive"] }
 mpl-auction-house = "1.1.6"
 anchor-lang = "0.25.0"
 postgres = "0.19.3"
